@@ -6,7 +6,7 @@ namespace APBD3.Services
 {
     public static class Services
     {
-        private const string DATABASE_PATH = "D:\\PJATK Stuff\\APBD\\Task 3\\Task 3\\APBD3\\Data\\data.csv";
+        private const string DATABASE_PATH = @"Data\data.csv";
         public static List<Student> studentList;
         
         //API FUNCTIONS
